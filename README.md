@@ -1,4 +1,4 @@
-# Start the ecommerce web app
+# Start the E-Commerce web app
 
 # In terminal 
 npm init
