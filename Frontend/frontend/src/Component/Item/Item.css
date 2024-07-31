@@ -1,7 +1,12 @@
 .item{
     width: 350px;
+    /* height: 50px; */
 }
-
+.item img{
+    width: 100%;
+    height: 70%;
+    /* height: 300px; */
+}
 .item p{
     margin: 6px 0px;
 }
